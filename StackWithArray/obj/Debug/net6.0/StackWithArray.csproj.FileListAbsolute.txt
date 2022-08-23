@@ -1,0 +1,15 @@
+C:\Users\Mostafa Abbasi\source\RezaBagheri\StackWithArray\bin\Debug\net6.0\StackWithArray.exe
+C:\Users\Mostafa Abbasi\source\RezaBagheri\StackWithArray\bin\Debug\net6.0\StackWithArray.deps.json
+C:\Users\Mostafa Abbasi\source\RezaBagheri\StackWithArray\bin\Debug\net6.0\StackWithArray.runtimeconfig.json
+C:\Users\Mostafa Abbasi\source\RezaBagheri\StackWithArray\bin\Debug\net6.0\StackWithArray.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\StackWithArray\bin\Debug\net6.0\StackWithArray.pdb
+C:\Users\Mostafa Abbasi\source\RezaBagheri\StackWithArray\obj\Debug\net6.0\StackWithArray.csproj.AssemblyReference.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\StackWithArray\obj\Debug\net6.0\StackWithArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa Abbasi\source\RezaBagheri\StackWithArray\obj\Debug\net6.0\StackWithArray.AssemblyInfoInputs.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\StackWithArray\obj\Debug\net6.0\StackWithArray.AssemblyInfo.cs
+C:\Users\Mostafa Abbasi\source\RezaBagheri\StackWithArray\obj\Debug\net6.0\StackWithArray.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\StackWithArray\obj\Debug\net6.0\StackWithArray.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\StackWithArray\obj\Debug\net6.0\refint\StackWithArray.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\StackWithArray\obj\Debug\net6.0\StackWithArray.pdb
+C:\Users\Mostafa Abbasi\source\RezaBagheri\StackWithArray\obj\Debug\net6.0\StackWithArray.genruntimeconfig.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\StackWithArray\obj\Debug\net6.0\ref\StackWithArray.dll
